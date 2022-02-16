@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeerDiego
+- 👋 Hi, I’m Diego
 - 👀 I’m interested in Peer5
 - 🌱 I’m currently learning WebRTC
 - 💞️ I’m looking to collaborate on eCDN solutions.
