@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Diego
 - 👀 I’m interested in Peer5
-- 🌱 I’m currently learning WebRTC
-- 💞️ I’m looking to collaborate on eCDN solutions.
-- 📫 How to reach me via email or Teams.
+- 🌱 I’m currently learning Python and some JavaScript
+- 💞️ I’m looking to collaborate on Microsoft's eCDN solution
+- 📫 How to reach me: via email or Teams
 
 <!---
 PeerDiego/PeerDiego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
