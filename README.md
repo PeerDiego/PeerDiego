@@ -3,7 +3,9 @@
 - 👀 I also develop and maintain scripts and documentation for Microsoft.
 
 # Microsoft eCDN scripts
-- [eCDN policy setter](https://github.com/PeerDiego/Teams/blob/diego-review/eCDN/Disable-mDNS-for-eCDN.ps1)
+- eCDN policy setters
+  - [mDNS policy](https://github.com/PeerDiego/Teams/blob/diego-review/eCDN/Disable-mDNS-for-eCDN.ps1)
+  - [LNA policy](https://github.com/PeerDiego/Enable-LNAforEcdn/blob/master/Enable-LNA-for-eCDN.ps1)
 - [Silent testing scripts](https://github.com/PeerDiego/silent-test-script)
 - [CQD Building Mapping to eCDN format converter](https://github.com/microsoft/CQD-BM-to-eCDN-subnet-mapping/)
 - [Subnet finder](https://github.com/PeerDiego/powershell-subnet-finder)
